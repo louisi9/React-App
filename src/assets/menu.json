@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Home",
+        "Link": "/"
+    },
+    {
+        "Name": "Our Work",
+        "Link": "/our-work/"
+    },
+    {
+        "Name": "Who We Are",
+        "Link": "/who-we-are/"
+    },
+    {
+        "Name": "News",
+        "Link": "/blog-archive/"
+    },
+    {
+        "Name": "Contact",
+        "Link": "/contact/"
+    }
+]
